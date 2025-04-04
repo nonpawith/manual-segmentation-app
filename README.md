@@ -47,6 +47,42 @@ python app.py
 
 ---
 
+## 🪜 Step-by-Step Usage
+
+1. **Launch the App**
+   - Run `python app.py` to open the tkinter interface.
+
+2. **Load an Image**
+   - Use the file dialog to select an image (e.g., an endoscopic frame in `.jpg` or `.png` format).
+
+3. **Choose a Segmentation Mode**
+   - Click to toggle between:
+     - **Freehand**: Draw directly over the image with mouse drag.
+     - **Livewire**: Place anchor points and let the app compute the optimal path along edges.
+
+4. **Select a Class**
+   - Choose one of the six segmentation classes:
+     - Septum
+     - Inferior Turbinate (IT)
+     - Middle Turbinate (MT)
+     - Polyp
+     - Others
+     - Airway (auto leftover class)
+
+5. **Start Annotating**
+   - In **Freehand** mode: click and drag to draw the contour.
+   - In **Livewire** mode: click to place anchors. The algorithm will trace a path between points based on edge strength.
+
+6. **Undo / Redraw**
+   - Press the **Undo** button to remove the last stroke or segment.
+
+7. **Save or Export**
+   - (Optional) Save the final mask or annotation results (depending on implementation).
+
+> ⚠️ Note: Class overlays are color-coded for clarity, and multiple regions can be drawn per class.
+
+---
+
 ## 📁 Project Structure
 
 ```
