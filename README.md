@@ -50,7 +50,7 @@ python app.py
 ## 📁 Project Structure
 
 ```
-nasal-endoscopy-manualseg/
+manual-segmentation-app/
 ├── app.py                  # GUI interface using tkinter
 ├── segmentation_core.py    # Image processing and segmentation logic
 ├── requirements.txt        # Python dependencies
