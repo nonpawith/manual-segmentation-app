@@ -1,4 +1,4 @@
-# nasal-endoscopy-manualseg
+# Manual Segmentation App
 
 A tkinter-based GUI application for manual segmentation of anterior nasal endoscopy images into multiple anatomical classes. Designed for research use and supports both **freehand** and **livewire (intelligent scissors)** segmentation modes.
 
