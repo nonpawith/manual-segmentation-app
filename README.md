@@ -71,8 +71,13 @@ If you have further questions, please do not hesitate to contact me at nonpawith
 
 ## 🤝 Acknowledgments
 
-If used in a publication or research, please cite the repository as:
 
+If you use this tool in your research or publication, please cite the repository as:
+
+> Nonpawith Phoommanee. *Manual Segmentation App*. GitHub repository, https://github.com/nonpawith/manual-segmentation-app, 2025.
+
+BibTeX:
+```bibtex
 @misc{NonpawithSegmentationApp,
   author = {Nonpawith Phoommanee},
   title = {Manual Segmentation App},
