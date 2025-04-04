@@ -25,8 +25,8 @@ A tkinter-based GUI application for manual segmentation of anterior nasal endosc
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/nonpawith/nasal-endoscopy-manualseg.git
-cd nasal-endoscopy-manualseg
+git clone https://github.com/nonpawith/manual-segmentation-app.git
+cd manual-segmentation-app
 ```
 
 ### 2. Install Dependencies
@@ -71,4 +71,12 @@ If you have further questions, please do not hesitate to contact me at nonpawith
 
 ## 🤝 Acknowledgments
 
-If used in a publication or research, please cite or acknowledge the original authors.
+If used in a publication or research, please cite the repository as:
+
+@misc{NonpawithSegmentationApp,
+  author = {Nonpawith Phoommanee},
+  title = {Manual Segmentation App},
+  year = {2025},
+  howpublished = {\url{https://github.com/nonpawith/manual-segmentation-app}},
+  note = {Accessed: YYYY-MM-DD}
+}
