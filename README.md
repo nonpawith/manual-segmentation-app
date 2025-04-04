@@ -1,6 +1,6 @@
 # Manual Segmentation App
 
-A tkinter-based GUI application for manual segmentation of endoscopy images into multiple anatomical classes. Designed for research use and supports both **freehand** and **livewire (intelligent scissors)** segmentation modes.
+A tkinter-based GUI application for manual segmentation of anterior nasal endoscopy images into multiple anatomical classes. Designed for research use and supports both **freehand** and **livewire (intelligent scissors)** segmentation modes.
 
 ---
 
@@ -59,15 +59,13 @@ manual-segmentation-app/
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📄 Additional note
 
-You can add GUI screenshots or usage GIFs here for better clarity.
+This project is intended for academic and research use.
 
----
+I am always open to code review. Please put in a push request if you spot any errors or see more efficient ways of presenting the code.
 
-## 📄 License
-
-This project is intended for academic and research use. Include your license terms here (e.g., MIT, GPL, or custom).
+If you have further questions, please do not hesitate to contact me at nonpawith.phoommanee@ucl.ac.uk.
 
 ---
 
